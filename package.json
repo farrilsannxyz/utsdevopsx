@@ -1,0 +1,7 @@
+{
+  "name": "uts-devops",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo Testing berhasil"
+  }
+}
